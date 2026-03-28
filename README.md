@@ -9,7 +9,7 @@
 
 ## Overview
 
-**CREAM** investigates what happens when fundamentally different decision-making paradigms — Reinforcement Learning (RL), Large Language Models (LLMs), Vision-Language Models (VLMs), and Humans — are placed together in the same multi-agent environment.
+**CREAM** investigates what happens when fundamentally different decision-making paradigms (Reinforcement Learning, Large Language Models, Vision-Language Models, and Humans) are placed together in the same multi-agent environment.
 
 Paper and code coming soon.
 
